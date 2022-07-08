@@ -1,0 +1,14 @@
+﻿{
+    "name": "xray",
+    "description": "xray",
+    "logo":"xray",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/kjuyheg/xray",
+    "stack": "container"
+}
